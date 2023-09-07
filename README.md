@@ -1,5 +1,11 @@
 It is a first react app which I created by watching a tutorial of Scrimba, basically the code is base on mobile screen. coz first time I made that code in mobile and shift it into VS code.
 
+# Result SS
+
+![image](https://github.com/Oroxhimaru/First-React-App-VScode/assets/110180871/b97c5c0b-a151-43f8-ad2d-057ae0dae084)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
