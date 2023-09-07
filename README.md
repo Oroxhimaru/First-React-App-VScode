@@ -1,3 +1,5 @@
+It is a first react app which I created by watching a tutorial of Scrimba, basically the code is base on mobile screen. coz first time I made that code in mobile and shift it into VS code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
